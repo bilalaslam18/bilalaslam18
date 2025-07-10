@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Bilal
 
-<!--
-**bilalaslam18/bilalaslam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** with a passion for building scalable web applications, clean APIs, and AI-powered products. I work comfortably across both **Node.js** and **Python**, and love solving real-world problems through smart engineering and great UI/UX.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Shadcn, Flowbite
+- **Backend:** Node.js, Express, Flask
+- **AI & LLMs:** OpenAI, LangChain, RAG Pipelines, Elasticsearch
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **DevOps & Tools:** Docker, AWS, Git, Vercel, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://www.linkedin.com/in/mbilal18/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mbilal18/)
+- 📧 Email: aslammbilal61@gmail.com
+
+---
+
+> “Never stop learning, building, and sharing.” 🚀
