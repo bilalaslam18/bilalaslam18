@@ -12,7 +12,7 @@ I’m a **Full-Stack Developer** with a passion for building scalable web applic
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://www.linkedin.com/in/mbilal18/)
+- 🌐 [Portfolio Website](https://muhammadbilal.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mbilal18/)
 - 📧 Email: aslammbilal61@gmail.com
 
